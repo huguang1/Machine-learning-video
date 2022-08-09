@@ -19,9 +19,7 @@
 ##### 5.多元线性回归
 1. 这里指的多元线性回归主要是指的一阶线性回归。<br>
 ##### 6.多项式回归
-1. GFS，GFS 解决了 Google 海量数据的存储问题。<br>
-2. MapReduce，MapReduce 则是为了解决如何从这些海量数据中快速计算并获取期望结果的问题。。<br>
-3. BigTable，BigTable 是 Google 设计的分布式数据存储系统，是用来处理海量数据的一种非关系型数据库。BigTable 是一个稀疏的、分布式的、持久化存储的多维度排序的映射表。<br>
+1. 关于一个或多个变量的多次函数。<br>
 ##### 4.Hadoop大数据处理框架简介
 1. Hadoop 系统简介，Hadoop 和 Google 内部使用的分布式计算系统原理相同，其开源特性使其成为分布式计算系统的事实上的国际标准。<br>
 2. Hadoop 生态圈，HDFS，MapReduce，HBase，Hive，Mahout，Pig，Zookeeper，Flume。<br>
